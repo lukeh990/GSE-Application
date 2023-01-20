@@ -1,4 +1,4 @@
-gse-application.exe
+build/
 out/
 node_modules/
 start.bat
